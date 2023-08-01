@@ -6,7 +6,7 @@ checkout `train.py` and replace the `dreambooth` with your own.
 Make sure to clone this repository recursively to include the submodules:
 
 ```bash
-git clone --recurse-submodules -j8 https://github.com/fabawi/ImageBind-LoRA.git
+git clone --recurse-submodules -j8 https://github.com/pujari-rajkumar/ImageBind-ConvDynamics.git
 ```
 
 For installation, please follow the original [usage instructions](#Usage).
